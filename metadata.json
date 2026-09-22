@@ -1,0 +1,6 @@
+{
+  "name": "محاسبي Mz",
+  "description": "تطبيقك البسيط عشان ترتب حساباتك، تعرف عليك شنو وليك شنو، وتتابع مصروفاتك ومعاملاتك بسهولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
